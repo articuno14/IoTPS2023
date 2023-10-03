@@ -1,3 +1,5 @@
+//C++ code in Ardruino IDE:
+
 #include <DHT.h> //Including the library DHT as discussed earlier
 DHT dht(26, DHT11); //sensor type is DHT 11 and the pin no 26 is used
 void setup() {
